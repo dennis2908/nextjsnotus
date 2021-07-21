@@ -1,1 +1,1 @@
-# Next JS Admin Template
+# Next JS Admin Template Using Notus
